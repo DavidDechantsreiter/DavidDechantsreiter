@@ -5,4 +5,4 @@
     - email: david.jdechantsreiter@gmail.com
     - phone: 857-234-5102
 - 😄 Pronouns: He/Him
-- Hobbies: I love playing basketball, going on walks or bike rides and furthering my coding skills using online platforms like CodeCademy.
+- 🚴 Hobbies: I love playing basketball, going on walks or bike rides and furthering my coding skills using online platforms like CodeCademy.
